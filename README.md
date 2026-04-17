@@ -55,7 +55,7 @@ The Power BI dashboard presents key metrics such as revenue, customer distributi
 ## How to Run  
 
 1. Clone the repository  
-git clone https://github.com/your-username/customer-behavior-analysis.git
+git clone https://github.com/Pankaj24112005/Customer-Behavior-Analysis.git
 
 2. Install required libraries  
 pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2
